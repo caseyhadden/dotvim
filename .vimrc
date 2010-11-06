@@ -98,7 +98,7 @@ endif
   set smartcase " if there are caps, go case sensitive
   set shiftwidth=4 " auto-indent amount with <<, >>, cindent, etc
   set softtabstop=4 " when hitting tab or backspace how many spaces?
-  set tabstop=8 " real tabs should be 8
+  set tabstop=4 " real tabs should be 8
 " }
 
 
